@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637832831 source:e:\language c++\addition_poo\main.cpp
+	<iostream>
+	"addition.h"
+
+1637832705 e:\language c++\addition_poo\addition.h
+
+1637833165 source:e:\language c++\addition_poo\addition.cpp
+	<iostream>
+	"addition.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637968798 source:e:\language c++\addition2_poo\main.cpp
+	<iostream>
+	"addition2.h"
+
+1637968798 source:e:\language c++\addition2_poo\addition2.cpp
+	<iostream>
+	"addition2.h"
+
+1637964609 e:\language c++\addition2_poo\addition2.h
+
